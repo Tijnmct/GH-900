@@ -1,8 +1,8 @@
 # <Projectnaam>
 
-Korte omschrijving: beschrijf hier in één of twee zinnen wat het project doet en waarom het bestaat.
+*Korte omschrijving:* beschrijf hier in één of twee zinnen wat het project doet en waarom het bestaat.
 
-Badges: voeg hier optioneel build-, coverage- of release-badges toe.
+**Badges:** voeg hier optioneel build-, coverage- of release-badges toe.
 
 Inhoud
 - [Overzicht](#overzicht)
@@ -21,7 +21,7 @@ Een beknopte en duidelijke uitleg van het project. Plaats hier doelen, belangrij
 
 ## Installatie
 
-Vereisten:
+### Vereisten:
 - Vermeld taalversies, OS-vereisten en externe diensten.
 
 Standaard installatie (voorbeeld):
@@ -104,3 +104,5 @@ Erkenningen, externe resources en gebruikte libraries.
 ---
 
 Vervang de placeholder-teksten (tussen < >) door project-specifieke informatie.
+
+
